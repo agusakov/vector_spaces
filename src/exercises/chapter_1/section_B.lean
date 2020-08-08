@@ -1,4 +1,4 @@
-import definitions
+import vec_space
 
 universes u v w
 
@@ -45,3 +45,5 @@ begin
     use (((-1) : F) • v),
     sorry,
 end
+
+end vector_space
